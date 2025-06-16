@@ -1,0 +1,22 @@
+========================================   PRODOTTI   ========================================
+CODICE              | Nome                | QTA            | PREZZO    
+P002                | Monitor Samsung 24" | 22             | 149.50    
+P003                | Tastiera Logitech   | 35             | 39.99     
+P004                | Mouse Ottico        | 42             | 19.99     
+P005                | Stampante Epson     | 8              | 249.00    
+P006                | SSD Samsung 1TB     | 25             | 89.90     
+P007                | Webcam HD 1080p     | 17             | 45.50     
+P008                | Dock Station USB-C  | 12             | 65.00     
+P009                | Router Wi-Fi 6      | 9              | 120.00    
+P010                | Hard Disk Esterno   | 14             | 75.00     
+P011                | K1 MINI ACEMAGIC    | 10             | 299.99    
+
+========================================   MOVIMENTI   ========================================
+CODICE              | Tipo                | QTA            | Data      
+P002                | ENTRATA             | 10             | 15/06/2025
+P005                | USCITA              | 2              | 16/06/2025
+P007                | ENTRATA             | 8              | 14/06/2025
+
+========================================   ORDINI   ========================================
+CODICE              | QTA            | Data      
+P005                | 20             | 16/06/2025
